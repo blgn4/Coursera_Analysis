@@ -1,2 +1,2 @@
 # Coursera_Analysis
-Spark Project for analysis of coursera student activities
+Apache Spark Project for analysis of coursera student activities
